@@ -7,7 +7,9 @@ title: Welcome
 
 Welcome to my professional webpage. Here, you’ll find an overview of my academic background, professional experience, and domain expertise...
 
-## 👤 About Me
+## 👤 Bio
 
-I am a data science professional...
+I am an Assistant Professor of Statistics at GITAM University and a passionate freelance data analyst, bringing over 12 years of experience in data analytics, research, and statistical consulting. My academic and professional journey is rooted in a deep interest in survival analysis, distribution theory, and quality control.
+
+With a strong blend of theoretical knowledge and practical expertise, I aim to make statistics accessible, impactful, and actionable—both in the classroom and in real-world projects. Whether it’s guiding students through complex models or delivering data-driven solutions for clients, I strive to bridge the gap between academic excellence and applied analytics.
 
