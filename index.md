@@ -23,3 +23,16 @@ Post Graduate Diploma in Business Analytics| IIT Palakkad, ASAP (Kerala)
 Cochin University of Science and Technology| Cochin, Kerala
 M.Sc. in Statistics | 2011-2013
 
+## Work Experience
+
+Deloitte Support and Services Ltd | Hyderabad
+Reporting Analyst| 2013 - 2015
+
+Visiting Lecturer | Kerala
+St. Teresas College
+Kerala University of Fisheries and Ocean Studies
+Amrita School of Business
+
+Gandhian Institute of Technology and Management (GITAM Deemed to be) University | Bengaluru
+Assistant Professor (Statistics) | 2024-Present
+
