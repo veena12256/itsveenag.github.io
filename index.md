@@ -13,3 +13,13 @@ I am an Assistant Professor of Statistics at GITAM University and a passionate f
 
 With a strong blend of theoretical knowledge and practical expertise, I aim to make statistics accessible, impactful, and actionable—both in the classroom and in real-world projects. Whether it’s guiding students through complex models or delivering data-driven solutions for clients, I strive to bridge the gap between academic excellence and applied analytics.
 
+## Education
+
+Mahatma Gandhi University| Kottayam, Kerala
+Ph.D. in Statistics | 2020-2025
+
+Post Graduate Diploma in Business Analytics| IIT Palakkad, ASAP (Kerala)
+
+Cochin University of Science and Technology| Cochin, Kerala
+M.Sc. in Statistics | 2011-2013
+
