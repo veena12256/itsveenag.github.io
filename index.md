@@ -29,9 +29,9 @@ Deloitte Support and Services Ltd | Hyderabad
 Reporting Analyst| 2013 - 2015
 
 Visiting Lecturer | Kerala
-St. Teresas College
-Kerala University of Fisheries and Ocean Studies
-Amrita School of Business
+St. Teresas College, Kochi
+Kerala University of Fisheries and Ocean Studies,, Kochi
+Amrita School of Business, Kollam
 
 Gandhian Institute of Technology and Management (GITAM Deemed to be) University | Bengaluru
 Assistant Professor (Statistics) | 2024-Present
